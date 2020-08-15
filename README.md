@@ -1,4 +1,2 @@
-# PROFILE-CARD
-
-LINK:-
-https://rehandhir.github.io/PROFILE-CARD/
+# PROFILE_CARD
+LINK:- https://rehandhir.github.io/PROFILE-CARD/
