@@ -1,2 +1,3 @@
 # PROFILE_CARD
-LINK:- https://rehandhir.github.io/Profile_Card/
+## Click here To View
+https://rehandhir.github.io/Profile_Card/
